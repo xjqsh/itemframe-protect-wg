@@ -1,0 +1,6 @@
+name: ItemFrameWg
+version: '${project.version}'
+main: me.xjqsh.itemframewg.ItemFrameWg
+api-version: 1.19
+authors: [xjqsh]
+depend: [WorldGuard]
